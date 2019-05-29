@@ -1,0 +1,36 @@
+body {
+  display:float;
+  float:center;
+  margin:auto auto;
+  background-color: grey;
+ 
+
+ 
+}
+.grid {
+  display: float;
+  float:center;
+  margin:auto;
+  height:80%;
+  width: 80%;
+}
+
+
+.center {grid-column: span 2 ;
+  height: 600px;;
+  width: 900px;
+  margin:auto ;
+background-image: url("../images/image6.jpeg");
+
+}
+  
+form {
+  display: float;
+  float:center;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.title {
+  color:white;
+  text-align: center
+}
